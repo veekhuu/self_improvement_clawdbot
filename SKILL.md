@@ -271,7 +271,7 @@ Use this checklist during self-check:
 
 ---
 
-*Based on the Clawdbot Self-Check Prompt: Hardened Edition (v2.1)*
+*Based on this [tweet](https://x.com/jumperz/status/2016882057108996577 "tweet") from [JUMPERZ](https://x.com/jumperz "JUMPERZ") *
 
 ---
 
